@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BF048E17-B9DB-45EA-888F-EFF85B397492</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AppUtilDir_example</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F2CAE1F12D1C4CE958A1EB70FD83CA9615822DC4</key>
+		<string>https://github.com/erikccoder/ofxAppUtils.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AppUtilDir_example/AppUtilDir_example.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F2CAE1F12D1C4CE958A1EB70FD83CA9615822DC4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/erikccoder/ofxAppUtils.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F2CAE1F12D1C4CE958A1EB70FD83CA9615822DC4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F2CAE1F12D1C4CE958A1EB70FD83CA9615822DC4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxAppUtils</string>
+		</dict>
+	</array>
+</dict>
+</plist>
