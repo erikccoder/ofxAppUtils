@@ -26,6 +26,9 @@ vector<string> AppUtilDir::getFilesFrom(string _path, string _ext)
 //--------------------------------------------------------------
 vector<string> AppUtilDir::getFilesFrom(string _path, vector<string> _ext)
 {
+    if(_path[_path.length()-1] != '/')
+        _path += '/';
+    
     ofDirectory _dir;
     for (string& _e : _ext) {
         _dir.allowExt(_e);
@@ -34,7 +37,7 @@ vector<string> AppUtilDir::getFilesFrom(string _path, vector<string> _ext)
 
     vector<string> _files;
     for (int i=0; i<_dir.size(); i++) {
-        _files.push_back(_dir[i].getFileName());
+        _files.push_back(_path + _dir[i].getFileName());
     }
     return _files;
 }
